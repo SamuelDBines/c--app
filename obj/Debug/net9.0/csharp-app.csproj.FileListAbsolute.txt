@@ -1,0 +1,14 @@
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/csharp-app
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/csharp-app.deps.json
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/csharp-app.runtimeconfig.json
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/csharp-app.dll
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/csharp-app.pdb
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.AssemblyInfoInputs.cache
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.AssemblyInfo.cs
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.csproj.CoreCompileInputs.cache
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.dll
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/refint/csharp-app.dll
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.pdb
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.genruntimeconfig.cache
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/ref/csharp-app.dll
