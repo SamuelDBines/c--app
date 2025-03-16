@@ -12,3 +12,7 @@
 /Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.pdb
 /Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.genruntimeconfig.cache
 /Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/ref/csharp-app.dll
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.sourcelink.json
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.csproj.AssemblyReference.cache
+/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/obj/Debug/net9.0/csharp-app.csproj.Up2Date

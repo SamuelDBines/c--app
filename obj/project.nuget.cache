@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D26pylLNcj4=",
+  "dgSpecHash": "18gcKQSVp7w=",
   "success": true,
   "projectFilePath": "/Users/samuelbines/go/src/github.com/SamuelDBines/csharp-app/csharp-app.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/samuelbines/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
